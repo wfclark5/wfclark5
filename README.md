@@ -12,7 +12,7 @@
 
 🎓&nbsp;I hold a BS in Atmospheric Sciences from the University of North Carolina at Asheville and an MS in Computer Science from East Carolina University. 
 
-🌱 &nbsp; My research interests are in applying organizational behavior theory to measure team performance of development teams. Analytics I want build out are streaming analytics, insurance-linked securities, seasonality of commodities, and supply chain analytics. The technologies I think that will shape the future are in-situ/remote sensing (Wearables, Low Earth Orbit (LEO) Satellites, Ground Penetrating Radar), Edge Computing (IoT), and Applied AI.
+🌱 &nbsp; My research interests are in applying organizational behavior theory to measure team performance of development teams. Analytic domains I want learn more about are streaming analytics, insurance-linked securities, seasonality of commodities, and supply chain analytics. The technologies I think that will shape the future are in-situ/remote sensing (Wearables, Low Earth Orbit (LEO) Satellites, Ground Penetrating Radar), Edge Computing (IoT), and Applied AI.
 
 ✍️ &nbsp;In my free time, I enjoy carpentry, movies, and spending time with my loved ones.
 
