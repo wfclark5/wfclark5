@@ -24,7 +24,9 @@
 
     
 I worked in the public sector alongside scientists and government officials to build out applied research analytics and applications.
-
+<details>
+<summary>Academic Research Institutions, U.S. Federal, State, and Local Governments</summary>
+    
 * Academic Research Institutions: 
   * [Duke University’s School of Medicine - CABD](https://autismcenter.duke.edu/)
   * [Duke University's Pratt School of Engineering - CEE](https://cee.duke.edu/)
@@ -42,12 +44,18 @@ I worked in the public sector alongside scientists and government officials to b
     * Regional Councils: 
         * [Triangle J](https://www.tjcog.org/sites/default/files/uploads/trrp_report_technicalreport_102418.pdf)
         * [Land of Sky](http://www.landofsky.org/)
+
     
+</details>
 </td><td valign="top" width="50%">
 
-Projects I have worked on have been for a wide array of industries and domains: 
+    
+The projects I have worked on or am currently working on are across a wide array of domains including Earth Systems Modeling, Weather and Climate Resilience, International Human Rights, Clinical Research, and Health Insurance.
 
-* Climate, Weather, and Environmental Systems
+<details>
+<summary>Project Details</summary>
+    
+* Climate, Weather, and Environmental Systems:
     * [Climate Resilience and Adaptation](https://toolkit.climate.gov/)
     * [National Climate Assessment](https://nca2018.globalchange.gov/)
     * [Sea Level Innundation](https://coast.noaa.gov/digitalcoast/data/slr.html)
@@ -71,12 +79,27 @@ Projects I have worked on have been for a wide array of industries and domains:
 * Broadband Internet Infrastructure:
     * [WestNGN Broadband](http://www.landofsky.org/westngnbroadband.html)
 
-* Clinical Research
+* Clinical Research:
     * [Child and Adolescent Psychiatry](https://autismcenter.duke.edu/content/research-overview)
+    * [Early Intervention Programs](https://www.esdm.co/)
+    * [Randomized Controlled Drug Trials](https://autismcenter.duke.edu/research/Aplus-study#:~:text=The%20Duke%20A%2B%20study%20involves%20three%20different%20projects.,the%20Early%20Start%20Denver%20Model%2C%20at%20no%20cost)
+    * [Electronic Health Record (EHR) Curation](https://apporchard.epic.com/)
+    * [Severe Adverse Event Tracking](https://saetrs.nida.nih.gov/view/)
+    * [Response Stimulus to Facial Recogniction Tracking](https://autismcenter.duke.edu/content/sense-know-study)
+    * Clinical Screening and Diagnosis:
+      * [ADHD, Autism Spectrum Disorder, Stress, Anxiety and Depression](https://dhss.delaware.gov/dsamh/files/si2013_dsm5foraddictionsmhandcriminaljustice.pdf)
+
+ * Health Insurance:
+    * [Societal Drivers of Health](https://mediacenter.bcbsnc.com/news/news-stories/standardizing-social-determinants-of-health-data-to-provide-whole-person-care)
+    * [Behavioral Health](https://medcitynews.com/2020/07/shattering-the-fourth-wall-the-shared-behavioral-health-experiences/?rf=1)
+    * [Substance Abuse](https://mediacenter.bcbsnc.com/news/blue-cross-nc-awards-2-million-to-five-organizations-fighting-opioid-epidemic-in-north-carolina)
+    * [Advanced Kidney Care](https://mediacenter.bcbsnc.com/news/blue-cross-nc-launches-blue-premier-advanced-kidney-care-in-collaboration-with-fresenius-medical-care-north-america-strive-health)
+    * [Value Based Care](https://www.bluecrossnc.com/provider-news/blue-cross-nc%E2%80%99s-blue-premier-program-saves-197-million-2020-health-care-costs-expands)
+    * [COVID-19 Reporting](https://www.bizjournals.com/triangle/news/2020/04/24/blue-cross-nc-estimates-590m-impact-from.html)
+    * [Care Management Efficiacy](https://mediacenter.bcbsnc.com/news/news-stories/how-primary-care-practices-are-dealing-with-a-financial-crisis-and-getting-support)
+    * [Commercial, Medicare, and Medicaid Lines of Business](https://www.bls.gov/ncs/ebs/sp/healthterms.pdf)
+ </details> 
    
-* Health Insurance
-   
-    
 </td></tr></table>
 
 ### 🛠 &nbsp;Tech Stack
