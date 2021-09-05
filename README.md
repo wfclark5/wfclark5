@@ -6,11 +6,122 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a Software Developer with a focus on Big Data Engineering and Machine Learning. Currently, I'm facilitating the build out and implementation of DataOps and MLOps at Blue Cross NC. Previously, I worked on analytic and software solutions for applied research initiatives at large research institutions (University of Nottingham – Ningbo China, Duke’s School of Medicine, Duke’s Pratt School of Engineering, NC State), Federal (NOAA, NASA, CDC, EPA, USFS), State (NC, SC, FL, VA) and local governments (Triangle J, Land of Sky, and others).
+💡 &nbsp; I'm a Software Developer with a focus on Data Analysis, Data Engineering, and Machine Learning. Currently, I'm facilitating the build out and implementation of  DataOps and MLOps at Blue Cross NC. Previously, I collaborated with scientists and government officials to build out applied research analytics and applications within the following organizations:
 
-💻 &nbsp; Analytic domains that I have expertise in are Healthcare (Clinical Measures, EHR, Societal Drivers of Health, Behavioral Health, Value Based Care, Epidemiology), Risk Valuations (Risk Revenue, Property and Casualty Catastrophe Modeling), Geospatial (Satellite Imagery, Climate and Weather Resilience). 
+* Academic Research Institutions:  
+  * Duke University’s School of Medicine - Center for Autism and Brain Development 
+  * Duke University's Pratt School of Engineering - Department of Civil and Environmental Engineering 
+  * The University of Nottingham at Ningbo China - Department of Geographical Science 
+  * NC State's Cooperative Institute for Satellite Earth System Studies (NCICS) 
+  
+* U.S. Federal Government:
+  * USGCRP, NOAA (NCEI, NESDIS), NASA (Earth Science Division), and USDA (Forest Service)
+  
+* U.S. States and Territories Governments:
+  * States: 
+    * North Carolina, South Carolina, Florida, Virginia 
+  * Territories: 
+    * Hawai‘i, American Samoa, Republic of the Marshall Islands, and Guam 
 
-🎓&nbsp;I hold a BS in Atmospheric Sciences from the University of North Carolina at Asheville and an MS in Computer Science from East Carolina University. 
+* Local Governments:
+  * Regional Councils: 
+    * Land of Sky Regional Council (Buncombe, Henderson, Madison and Transylvania Counties)
+    * Triangle J Regional Council (Chatham, Durham, Johnston, Lee, Moore, Orange, and Wake Counties) 
+    
+  * County Governments:  
+    *  Broward County (FL)
+    
+  * City Governments:  
+    * City of Cary (NC), City of Asheville (NC), City of Charelston (SC)
+    
+
+
+💻 &nbsp; I have worked on projects across a variety of industry domains and have built analytics and applications using various analytic stacks. 
+
+* Analytic Domains and Topics: 
+
+* Climate, Weather, and Earth Systems:
+
+    * Climate Resilience:
+      * Historical Data 
+      * Exposure + Vulnerability = Risk 
+      * Census Data
+      * Property Tax Information
+      * Road Networks
+      * Points of Interests (Hospital, Grocery, Shelter)
+      * Building Information Modeling (Height, Width, Lat, Lon)
+      * Building Type (Mobile Home, Residential, Commercial)
+      * Vegetation Density
+      * Drought Monitoring
+      * Vector Bourne Disease (Lyme Disease, Zika) 
+      * Flooding, Wildfires, Landslides
+       * 100 and 500 Year Floods
+       * Wildfire Likelihood and Intensity 
+       * Landslide Susceptibility
+       * Sea Level Rise Scenarios
+      * Insights to Action on Public Policy
+      
+    * Weather and Catastrophe Modeling:
+      * Property and Casualty Forecasting
+      * Road Networks
+      * Points of Interests (Hospital, Grocery, Shelter)
+      * Property Tax Information
+      * Building Type (Mobile Home, Residential, Commercial)
+      * Building Wind Load Classifications
+      * Real-Time Weather + Climate Trends 
+      * Storm Surge Forecasting
+      * Hurricane Direction of Movement Forecasting
+      * Hurricane Surface Wind Forecasting
+      * Forecasted Total Precipitable Water 
+      * State of Emergency Funding
+      * Reinsurance
+   
+      
+    * Satellite Imagery:
+    
+      * LandSat-9 Land Cover Trends
+      * GOES-R Atmospheric Measurements
+      * Downscaling 
+      * Raster Algebra
+      * Time-series Aggregation
+      * Raster to Geometry 
+      
+    * Computation Geometry and Geospatial Analysis:
+      * Point Cloud Analysis
+      * LiDAR Swaths 
+      * 3D Building Information Modeling 
+
+
+ * Clinical Research: 
+    * Randomized Controlled Drug Trials
+    * Electronic Health Records
+    * Child and Adolescent Psychiatry
+    * Severe Adverse Event Tracking
+    * EEG and Eye Tracking
+    * Response Stimulus to Facial Recogniction Tracking 
+    * Clinical Screening and Diagnosis:
+      * ADHD, Autism Spectrum Disorder, Stress, Anxiety and Depression
+
+    
+    
+ * Health Insurance:
+    * Societal Drivers of Health
+    * Behavioral Health
+    * Substance Abuse
+    * Advanced Kidney Care
+    * Value Based Care 
+    * Provider Performance Metrics
+    * Infectious Disease Reporting
+    * Care Management Efficiacy
+    * Hierarchical Condition Categories (HCC) Risk Scoring
+    * Risk Revenue Calculations
+    * Per Member Per Month Cost
+    * Total Cost of Care
+    * Commercial, Medicare, and Medicaid Lines of Business
+
+
+
+🎓 &nbsp;I hold a BS in Atmospheric Sciences from the University of North Carolina at Asheville and an MS in Computer Science from East Carolina University. 
 
 🌱 &nbsp; My research interests are in applying organizational behavior theory to measure team performance of development teams. Analytic domains I want learn more about are streaming analytics, insurance-linked securities, seasonality of commodities, and supply chain analytics. The technologies I think that will shape the future are in-situ/remote sensing (Wearables, Low Earth Orbit (LEO) Satellites, Ground Penetrating Radar), Edge Computing (IoT), and Applied AI.
 
