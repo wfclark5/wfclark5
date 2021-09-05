@@ -1,37 +1,83 @@
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
-![version :04.09.2021](https://img.shields.io/badge/version-20.08.2021-informational) &nbsp;
+![version :2021.09.05](https://img.shields.io/badge/version-2021.09.05-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=wfclark5&color=red)&nbsp;
 [![GitHub wfclark5](https://img.shields.io/github/followers/wfclark5?label=follow&style=social)](https://github.com/wfclark5)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
-### 👨🏻‍💻 &nbsp;About Me
-💡 &nbsp; I'm a Software Developer with a focus on Data Analysis, Data Engineering, and Machine Learning. Currently, I'm facilitating the build out and implementation of  DataOps and MLOps at Blue Cross NC. Previously, I collaborated with scientists and government officials to build out applied research analytics and applications within the following organizations:
 
-* Academic Research Institutions: Duke University’s School of Medicine and School of Engineering, The University of Nottingham at Ningbo China,  NC State's CISESS
-* U.S. Federal Government: USGCRP, NOAA (NCEI, NESDIS), NASA (Earth Science Division), and USDA (Forest Service)
-* U.S. States and Territories Governments
-* Local Governments: Regional Councils, County Governments, City Governments
-    
-💻 &nbsp; I have worked on projects across a variety of industry domains and have built analytics and applications using various analytic stacks. 
+### &nbsp;About Me
 
-* Analytic Domains and Topics: 
+👨🏻‍💻 &nbsp; I'm a Software Developer with a focus on Data Analytics, Data Engineering, and Machine Learning. Currently, I'm facilitating the build out and implementation of  DataOps and MLOps at Blue Cross NC. I hold a B.S. in Atmospheric Sciences from the University of North Carolina at Asheville and an M.S. in Computer Science from East Carolina University. 
 
-    * Climate Resilience and Adaptation
-    * Numerical Weather Prediction
-    * Property and Casualty Catastrophe Modeling
-    * Computational Geometry and Geospatial Analysis
-    * Clinical Research
-    * Health Insurance
-    * Developer Optimization Metrics
-
-
-🎓 &nbsp;I hold a BS in Atmospheric Sciences from the University of North Carolina at Asheville and an MS in Computer Science from East Carolina University. 
-
-🌱 &nbsp; My research interests are in applying organizational behavior theory to measure team performance of development teams. Analytic domains I want learn more about are streaming analytics, insurance-linked securities, seasonality of commodities, and supply chain analytics. The technologies I think that will shape the future are in-situ/remote sensing (Wearables, Low Earth Orbit (LEO) Satellites, Ground Penetrating Radar), Edge Computing (IoT), and Applied AI.
+🌱 &nbsp; My research interests are in applying organizational behavior theory to measure team performance of development teams. Analytic domains I want learn more about are streaming analytics, insurance-linked securities, seasonality of commodities, and supply chain analytics. The technologies I believe will shape the future are in-situ/remote sensing (Wearables, Low Earth Orbit (LEO) Satellites, Ground Penetrating Radar), Edge Computing (IoT), and Applied AI.
 
 ✍️ &nbsp;In my free time, I enjoy carpentry, movies, and spending time with my loved ones.
 
 
+<table><tr>
+    <th style="text-align:left">⏰ Way back when... &nbsp; </th>
+    <th style="text-align:left">💻 Analytic Domains and Topics  &nbsp; 
+</th>
+  </tr>
+<tr>  
+<td valign="top" width="50%">
+
+    
+I worked in the public sector alongside scientists and government officials to build out applied research analytics and applications.
+
+* Academic Research Institutions: 
+  * [Duke University’s School of Medicine - CABD](https://autismcenter.duke.edu/)
+  * [Duke University's Pratt School of Engineering - CEE](https://cee.duke.edu/)
+  * [University of Nottingham Ningbo China](https://www.nottingham.edu.cn/en/science-engineering/research-groups/geospatial-and-geo-hazards/index.aspx)
+  * [NC State's - CISESS](https://ncics.org/programs/cisess/)
+  
+* U.S. Federal Government:
+  * [USGCRP](https://www.globalchange.gov/), [NOAA](https://www.ncei.noaa.gov/), [NASA - GPM](https://gpm.nasa.gov/science/precipitation-algorithms), and [USDA - Forest Service](https://www.fs.usda.gov/r8)
+  
+* U.S. States and Territories Governments: 
+  * States: [North Carolina](https://files.nc.gov/ncdeq/climate-change/resilience-plan/2020-Climate-Risk-Assessment-and-Resilience-Plan.pdf)
+  * Territories: [Hawai‘i, American Samoa, Republic of the Marshall Islands, and Guam](https://www.regions.noaa.gov/pacific-islands/)
+
+* Local Governments: 
+    * Regional Councils: 
+        * [Triangle J](https://www.tjcog.org/sites/default/files/uploads/trrp_report_technicalreport_102418.pdf)
+        * [Land of Sky](http://www.landofsky.org/)
+    
+</td><td valign="top" width="50%">
+
+Projects I have worked on have been for a wide array of industries and domains: 
+
+* Climate, Weather, and Environmental Systems
+    * [Climate Resilience and Adaptation](https://toolkit.climate.gov/)
+    * [National Climate Assessment](https://nca2018.globalchange.gov/)
+    * [Sea Level Innundation](https://coast.noaa.gov/digitalcoast/data/slr.html)
+    * [P&C Catatrophe Modeling](http://www.atms.unca.edu/chennon/research/documents/clark_ncur_2016_preprint.pdf)
+    * [Vector Bourne Disease Forecasting](https://health2016.globalchange.gov/vectorborne-diseases)
+    * [Health System Vulnerability to Climate and Weather](https://link.springer.com/article/10.1007%2Fs40572-018-0223-y)   
+    * [Storm Surge Forecasting](https://www.nhc.noaa.gov/nationalsurge/)
+    * [Surface Wind Analysis](https://www.rms.com/event-response/hwind)
+    * [LandSat-9 Land Cover](https://www.usgs.gov/centers/wgsc/science/land-cover-trends?qt-science_center_objects=0#qt-science_center_objects)
+    * [GOES-R Atmospheric Monitoring](https://www.goes-r.gov/)
+    * [Automated Tropical Cyclone Forecasting System](https://www.nrlmry.navy.mil/atcf_web/index1.html)
+    
+* Human Rights Violations by Agents of State
+    * [Political Terror Scale](http://www.politicalterrorscale.org/Data/Files/PTS-Codebook-V120.pdf)
+   
+* Geospatial Engineering and Computational Geometry
+    * [Usage of LiDAR for BIM](https://info.vercator.com/blog/how-point-clouds-are-changing-bim-construction-and-facility-maintenance)
+    * [Usage of LiDAR indoors](https://www.researchgate.net/publication/326708516_Vision-Aided_Indoor_Pedestrian_Dead_Reckoning)
+    * [Aerial LiDAR Collection](https://sdd.nc.gov/SDD/docs/LidarSummary.pdf)
+  
+* Broadband Internet Infrastructure:
+    * [WestNGN Broadband](http://www.landofsky.org/westngnbroadband.html)
+
+* Clinical Research
+    * [Child and Adolescent Psychiatry](https://autismcenter.duke.edu/content/research-overview)
+   
+* Health Insurance
+   
+    
+</td></tr></table>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -49,8 +95,6 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)&nbsp;
-
-
 
 ### 📫 &nbsp; How to reach me:
 
