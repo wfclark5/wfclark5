@@ -7,7 +7,7 @@
 
 
 
-👨🏻‍💻 &nbsp; **About Me:** A Software Developer and multidisciplinary with a focus in Data Analytics, Data Engineering, DataOps and ML Ops. 
+👨🏻‍💻 &nbsp; **About Me:** A Software Developer with a multidisciplinary focus in Data Analytics, Data Engineering, DataOps and ML Ops. 
 
 📚 &nbsp; **Interests**: Sustainability, Population Health, Real Estate, ILS, Reinsurance, Developer Advocacy, OBT, and DevOps. 
 
