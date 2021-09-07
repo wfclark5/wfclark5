@@ -3,8 +3,6 @@
 ![version :2021.09.05](https://img.shields.io/badge/version-2021.09.05-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=wfclark5&color=red)&nbsp;
 [![GitHub wfclark5](https://img.shields.io/github/followers/wfclark5?label=follow&style=social)](https://github.com/wfclark5)&nbsp;
-![build: passing](https://img.shields.io/badge/build-passing-success)
-
 
 
 👨🏻‍💻 &nbsp; **About Me:** A Software Developer with a multidisciplinary focus in Data Analytics, Data Engineering, DataOps and ML Ops. 
@@ -14,43 +12,49 @@
 💻 &nbsp; **Tech of the Future:** Remote Sensing, Wearables, Low Earth Orbit Satellites, IoT, Edge Computing, and Applied AI.
 
 <table><tr>
-    <th style="text-align:left">⏰ Way back when... &nbsp; </th>
-    <th style="text-align:left">💻 Analytic Domains and Topics  &nbsp; 
+    <th style="text-align:left">🌎Awesome Places and People&nbsp; </th>
+    <th style="text-align:left">💻 Analytic Domains and Topics&nbsp; 
 </th>
   </tr>
 <tr>  
 <td valign="top" width="50%">
-
     
-I worked in the public sector with scientists and government officials to build out applied research analytics and applications.
+I have worked with incredibly talented people across many different industries, see below!
 
 <details>
-<summary>Academic Research Institutions, U.S. Federal, State, and Local Governments</summary>
-    
+<summary>Academia, NPOS, Federal, State and Local Governments</summary>
+ 
 * Academic Research Institutions: 
   * [Duke University’s School of Medicine - CABD](https://autismcenter.duke.edu/)
   * [Duke University's Pratt School of Engineering - CEE](https://cee.duke.edu/)
   * [University of Nottingham Ningbo China](https://www.nottingham.edu.cn/en/science-engineering/research-groups/geospatial-and-geo-hazards/index.aspx)
   * [NC State's - CISESS](https://ncics.org/programs/cisess/)
-  
+
 * U.S. Federal Government:
-  * [USGCRP](https://www.globalchange.gov/), [NOAA](https://www.ncei.noaa.gov/), [NASA - GPM](https://gpm.nasa.gov/science/precipitation-algorithms), and [USDA - Forest Service](https://www.fs.usda.gov/r8)
-  
+  * [USGCRP](https://www.globalchange.gov/)
+  * [NOAA](https://www.ncei.noaa.gov/) 
+  * [NASA - GPM](https://gpm.nasa.gov/science/precipitation-algorithms)
+  * [USDA - Forest Service](https://www.fs.usda.gov/r8)
+
 * U.S. States and Territories Governments: 
-  * States: [North Carolina](https://files.nc.gov/ncdeq/climate-change/resilience-plan/2020-Climate-Risk-Assessment-and-Resilience-Plan.pdf)
-  * Territories: [Hawai‘i, American Samoa, Republic of the Marshall Islands, and Guam](https://www.regions.noaa.gov/pacific-islands/)
+  * States: 
+     * [North Carolina](https://files.nc.gov/ncdeq/climate-change/resilience-plan/2020-Climate-Risk-Assessment-and-Resilience-Plan.pdf)
+  * Territories: 
+     * [Hawai‘i, American Samoa, Republic of the Marshall Islands, and Guam](https://www.regions.noaa.gov/pacific-islands/)
 
 * Local Government: 
     * Regional Councils: 
         * [Triangle J](https://www.tjcog.org/sites/default/files/uploads/trrp_report_technicalreport_102418.pdf)
         * [Land of Sky](http://www.landofsky.org/)
 
+* Blue Cross: 
+    * [Data and Analytics(DNA)](https://careers.bluecrossnc.com/global/en/data-analytics)
     
 </details>
 </td><td valign="top" width="50%">
 
-    
-Domains I have contrubted to are Earth Systems Modeling, Weather and Climate Resilience, International Human Rights, Clinical Research, and Health Insurance.
+
+Environmental Modeling, Weather and Climate Resilience, Human Rights, Clinical Research, and Health Insurance.
 
 <details>
 <summary>Project Details</summary>
@@ -67,7 +71,7 @@ Domains I have contrubted to are Earth Systems Modeling, Weather and Climate Res
     * [LandSat-9 Land Cover Change](https://www.usgs.gov/centers/wgsc/science/land-cover-trends?qt-science_center_objects=0#qt-science_center_objects)
     * [GOES-R Atmospheric Monitoring](https://www.goes-r.gov/)
     * [Automated Tropical Cyclone Forecasting System](https://www.nrlmry.navy.mil/atcf_web/index1.html)
-    
+
 * Human Rights Violations by Agents of State
     * [Political Terror Scale](http://www.politicalterrorscale.org/Data/Files/PTS-Codebook-V120.pdf)
    
