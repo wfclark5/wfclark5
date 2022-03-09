@@ -1,11 +1,11 @@
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there!
 
-![version :2021.09.05](https://img.shields.io/badge/version-2021.09.05-informational) &nbsp;
+![version :2022.08.03](https://img.shields.io/badge/version-2021.09.05-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=wfclark5&color=red)&nbsp;
 [![GitHub wfclark5](https://img.shields.io/github/followers/wfclark5?label=follow&style=social)](https://github.com/wfclark5)&nbsp;
 
 
-👨🏻‍💻 &nbsp; **About Me:** A Software Developer with a focus in Data Analytics, Data Engineering, DataOps and MLOps. 
+👨🏻‍💻 &nbsp; **About Me:** NC Native with a focus in Data Analytics, Data Engineering, DataOps and MLOps. 
 
 📚 &nbsp; **Interests**: Sustainability, Population Health, Real Estate, ILS, Reinsurance, Developer Advocacy, OBT, and DevOps. 
 
@@ -47,8 +47,8 @@ I have worked with incredibly talented people across many different industries, 
         * [Triangle J](https://www.tjcog.org/sites/default/files/uploads/trrp_report_technicalreport_102418.pdf)
         * [Land of Sky](http://www.landofsky.org/)
 
-* Blue Cross: 
-    * [Data and Analytics(DNA)](https://careers.bluecrossnc.com/global/en/data-analytics)
+* Blue Cross NC: 
+    * [Data and Analytics (DNA)](https://careers.bluecrossnc.com/global/en/data-analytics)
     
 </details>
 </td><td valign="top" width="50%">
