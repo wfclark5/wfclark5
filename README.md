@@ -36,7 +36,7 @@ I have worked with incredibly talented people across many different industries, 
   * [NASA - GPM](https://gpm.nasa.gov/science/precipitation-algorithms)
   * [USDA - Forest Service](https://www.fs.usda.gov/r8)
 
-* U.S. States and Territories Governments: 
+* U.S. States and Territories: 
   * States: 
      * [North Carolina](https://files.nc.gov/ncdeq/climate-change/resilience-plan/2020-Climate-Risk-Assessment-and-Resilience-Plan.pdf)
   * Territories: 
