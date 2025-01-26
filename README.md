@@ -5,12 +5,6 @@
 [![GitHub wfclark5](https://img.shields.io/github/followers/wfclark5?label=follow&style=social)](https://github.com/wfclark5)&nbsp;
 
 
-👨🏻‍💻 &nbsp; **About Me:** NC based developer with a focus in Data Analytics, Data Engineering, DataOps and MLOps. 
-
-📚 &nbsp; **Interests**: Sustainability, Population Health, Real Estate, ILS, Reinsurance, Developer Advocacy, OBT, and DevOps. 
-
-💻 &nbsp; **Tech of the Future:** Remote Sensing, Wearables, Low Earth Orbit Satellites, IoT, Edge Computing, and Applied AI.
-
 <table><tr>
     <th style="text-align:left">🌎Awesome Places and People&nbsp; </th>
     <th style="text-align:left">💻 Analytic Domains and Topics&nbsp; 
