@@ -6,8 +6,8 @@
 
 
 <table><tr>
-    <th style="text-align:left">🌎Awesome Places and People&nbsp; </th>
-    <th style="text-align:left">💻 Analytic Domains and Topics&nbsp; 
+    <th style="text-align:left">🌎Awesome People and Places&nbsp; </th>
+    <th style="text-align:left">💻Domains and Industries&nbsp; 
 </th>
   </tr>
 <tr>  
